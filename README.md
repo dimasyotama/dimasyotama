@@ -2,7 +2,7 @@
 
 ## I'm a Software Developer and Machine Learning Enthusiast!
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Learn Something new all about Machine Learning stuff
+- 🥅 2021 Goals: Learn Something new all about Machine Learning stuff
 - ⚡ Fun fact: I love to draw and some visual design
 
 ### Connect with me:
