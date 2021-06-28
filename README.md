@@ -38,7 +38,7 @@
 
 ---
 
-<img align="left" alt="localhostfotly Github Stats" src="https://github-readme-stats.vercel.app/api?username=localhostfotly&show_icons=true&hide_border=true" />
+<img align="left" alt="localhostfotly Github Stats" src="https://github-readme-stats.vercel.app/api?username=dimasyotama&show_icons=true&hide_border=true" />
 
 [instagram]: https://www.instagram.com/dimasyotama/
 [linkedin]: https://www.linkedin.com/in/dimas-yoga-pratama-3866b1152/
