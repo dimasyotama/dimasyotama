@@ -42,4 +42,4 @@
 
 [instagram]: https://www.instagram.com/dimasyotama/
 [linkedin]: https://www.linkedin.com/in/dimas-yoga-pratama-3866b1152/
-[medium]: https://medium.com/@dimas_yotama
+[medium]: https://medium.com/@dimasyotama
