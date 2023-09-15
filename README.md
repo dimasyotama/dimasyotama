@@ -6,26 +6,10 @@
 - ⚡ Fun fact: I love to draw and some visual design
 
 ### Connect with me:
+[![linkedin][Linkedin]][linkedin-url][![medium][Medium]][medium-url][![instagram][Instagram]][instagram-url]
 
-[<img align="left" alt="Dimas | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Dimas | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Dimas | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
-
-
-<br />
-
-### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
+### Languages and Tools that i've been used:
+[![python][Python]][python-url][![fastapi][Fastapi]][fastapi-url][![django][Django]][django-url][![redis][Redis]][redis-url][![rabbitmq][rabbitmq]][rabbitmq-url][![mongodb][Mongodb]][mongodb-url][![postgresql][Posgtresql]][postgresql-url][![golang][Golang]][golang-url][![selenium][Selenium]][selenium-url]
 <br />
 <br />
 
@@ -38,8 +22,29 @@
 
 ---
 
-<img align="left" alt="localhostfotly Github Stats" src="https://github-readme-stats.vercel.app/api?username=dimasyotama&show_icons=true&hide_border=true" />
+<img align="left" alt="localhostfotly Github Stats" src="https://github-readme-stats.vercel.app/api?username=dimasyotama&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=shadow_blue" />
 
-[instagram]: https://www.instagram.com/dimasyotama/
-[linkedin]: https://www.linkedin.com/in/dimas-yoga-pratama-3866b1152/
-[medium]: https://medium.com/@dimasyotama
+[Python]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
+[python-url]: https://www.python.org/
+[Fastapi]: https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white
+[fastapi-url]: https://fastapi.tiangolo.com/
+[Django]: https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white
+[django-url]: https://www.djangoproject.com/
+[Rabbitmq]: https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white
+[rabbitmq-url]: https://www.rabbitmq.com/
+[Redis]: https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white
+[redis-url]: https://redis.com/redis-for-dummies/?utm_source=google&utm_medium=cpc&utm_campaign=redis360-brand-uk-17565601660&utm_term=redis&utm_content=redis-for-dummies&gclid=CjwKCAjw3oqoBhAjEiwA_UaLtltfpPKfZtNO6GW-fjxr9yxgeJN9Xa1H8DDeyzpWOVwX1FAAFUCaqBoCpLoQAvD_BwE
+[Mongodb]: https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white
+[mongodb-url]: https://github.com/othneildrew/Best-README-Template/network/members
+[Golang]: https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white
+[golang-url]: https://go.dev/
+[Posgtresql]: https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white
+[postgresql-url]: https://www.postgresql.org/
+[Selenium]: https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white
+[selenium-url]: https://www.selenium.dev/
+[Linkedin]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
+[linkedin-url]: https://www.linkedin.com/in/dimas-yoga-pratama-3866b1152/
+[Medium]: https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white
+[medium-url]: https://medium.com/@dimasyotama
+[Instagram]: https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white
+[instagram-url]: https://www.instagram.com/dimasyotama/
