@@ -1,8 +1,7 @@
-### Hi there, I'm Dimas Yoga 👋
+### Hi there
 
 ## I'm a Software Developer and Machine Learning Enthusiast!
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Learn more about data
 - ⚡ Fun fact: I love to draw and some visual design
 
 ### Connect with me:
