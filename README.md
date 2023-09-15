@@ -13,6 +13,9 @@
 <br />
 <br />
 
+### Most Language
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimasyotama&layout=compact)](https://github.com/dimasyotama/github-readme-stats)
+
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [PART 1 Pengenalan  Django dan Penginstalan](https://medium.com/@dimas_yotama/part-1-pengenalan-django-dan-penginstalan-86b91650b1fe)
