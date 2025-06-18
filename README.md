@@ -17,9 +17,9 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [PART 1 Pengenalan  Django dan Penginstalan](https://medium.com/@dimas_yotama/part-1-pengenalan-django-dan-penginstalan-86b91650b1fe)
-- [PART 2 CRUD dengan Django Admin](https://medium.com/@dimas_yotama/part-2-crud-dengan-django-admin-5a6c45a597c5)
-- [Apa itu GIT ?](https://medium.com/@dimas_yotama/apa-itu-git-d4f94b82ab83)
+- [Navigating the Python Packaging Landscape: Pip vs. Poetry vs. uv — A Developer’s Guide]([https://medium.com/@dimas_yotama/part-1-pengenalan-django-dan-penginstalan-86b91650b1fe](https://dimasyotama.medium.com/navigating-the-python-packaging-landscape-pip-vs-poetry-vs-uv-a-developers-guide-49a9c93caf9c))
+- [Golang True Rivals: Why Comparing Go to Node.js and Python Misses the Mark]([https://medium.com/@dimas_yotama/part-2-crud-dengan-django-admin-5a6c45a597c5](https://dimasyotama.medium.com/golangs-true-rivals-why-comparing-go-to-node-js-and-python-misses-the-mark-414935ec7284))
+- [Is Django Dead in 2025? The Uncomfortable Truth About This Python Giant](https://dimasyotama.medium.com/is-django-dead-in-2025-the-uncomfortable-truth-about-this-python-giant-31285dcfac50)
 <!-- BLOG-POST-LIST:END -->
 
 ---
