@@ -1,21 +1,48 @@
-### Hi there
+<h1 align="center">Hi there 👋, I'm Dimas!</h1>
+<h3 align="center">A Software Developer & Machine Learning Enthusiast 🚀</h3>
 
-## I'm a Software Developer and Machine Learning Enthusiast!
-- 🌱 I’m currently learning everything 🤣
-- ⚡ Fun fact: I love to draw and some visual design
+<p align="center">
+  <em>Crafting clean backend systems | Writing thoughts in tech | Exploring AI & beyond</em>
+</p>
 
-### Connect with me:
-[![linkedin][Linkedin]][linkedin-url][![medium][Medium]][medium-url][![instagram][Instagram]][instagram-url]
+---
 
-### Languages and Tools that i've been used:
-[![python][Python]][python-url][![fastapi][Fastapi]][fastapi-url][![django][Django]][django-url][![redis][Redis]][redis-url][![rabbitmq][rabbitmq]][rabbitmq-url][![mongodb][Mongodb]][mongodb-url][![postgresql][Posgtresql]][postgresql-url][![golang][Golang]][golang-url][![selenium][Selenium]][selenium-url]
-<br />
-<br />
+### 🌱 About Me
 
-### Most Language
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimasyotama&layout=compact)](https://github.com/dimasyotama/github-readme-stats)
+- 💻 I'm currently working as a **Backend Developer**
+- 🔍 Exploring AI, ML, and traffic vision systems
+- 🎨 Fun fact: I love to draw and do some visual design
+- ✍️ I write tech blogs on Medium
 
-### 📕 Latest Blog Posts
+---
+
+### 📫 Connect with Me
+
+[![LinkedIn][Linkedin]][linkedin-url]
+[![Medium][Medium]][medium-url]
+[![Instagram][Instagram]][instagram-url]
+
+---
+
+### 🧰 Languages & Tools
+
+![Python][Python] ![FastAPI][Fastapi] ![Django][Django]  
+![Go][Golang] ![PostgreSQL][Postgresql] ![MongoDB][Mongodb]  
+![Redis][Redis] ![RabbitMQ][Rabbitmq] ![Selenium][Selenium]  
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dimasyotama&show_icons=true&theme=shadow_blue&hide=prs" height="165px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimasyotama&layout=compact&theme=shadow_blue" height="165px"/>
+</p>
+
+---
+
+### 📝 Latest Blog Posts
+
 <!-- BLOG-POST-LIST:START -->
 - [Navigating the Python Packaging Landscape: Pip vs. Poetry vs. uv — A Developer’s Guide](https://dimasyotama.medium.com/navigating-the-python-packaging-landscape-pip-vs-poetry-vs-uv-a-developers-guide-49a9c93caf9c)
 - [Golang True Rivals: Why Comparing Go to Node.js and Python Misses the Mark](https://dimasyotama.medium.com/golangs-true-rivals-why-comparing-go-to-node-js-and-python-misses-the-mark-414935ec7284)
@@ -24,29 +51,28 @@
 
 ---
 
-<img align="left" alt="localhostfotly Github Stats" src="https://github-readme-stats.vercel.app/api?username=dimasyotama&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=shadow_blue" />
+### 🔥 Fun Extras
 
-[Python]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
-[python-url]: https://www.python.org/
-[Fastapi]: https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white
-[fastapi-url]: https://fastapi.tiangolo.com/
-[Django]: https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white
-[django-url]: https://www.djangoproject.com/
-[Rabbitmq]: https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white
-[rabbitmq-url]: https://www.rabbitmq.com/
-[Redis]: https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white
-[redis-url]: https://redis.com/redis-for-dummies/?utm_source=google&utm_medium=cpc&utm_campaign=redis360-brand-uk-17565601660&utm_term=redis&utm_content=redis-for-dummies&gclid=CjwKCAjw3oqoBhAjEiwA_UaLtltfpPKfZtNO6GW-fjxr9yxgeJN9Xa1H8DDeyzpWOVwX1FAAFUCaqBoCpLoQAvD_BwE
-[Mongodb]: https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white
-[mongodb-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[Golang]: https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white
-[golang-url]: https://go.dev/
-[Posgtresql]: https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white
-[postgresql-url]: https://www.postgresql.org/
-[Selenium]: https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white
-[selenium-url]: https://www.selenium.dev/
-[Linkedin]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
-[linkedin-url]: https://www.linkedin.com/in/dimas-yoga-pratama-3866b1152/
-[Medium]: https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white
-[medium-url]: https://medium.com/@dimasyotama
-[Instagram]: https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white
+> "Great software is built with care, curiosity, and lots of caffeine ☕."
+
+---
+
+<!-- ICON DEFINITIONS -->
+[Python]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54  
+[Fastapi]: https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white  
+[Django]: https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white  
+[Golang]: https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white  
+[Postgresql]: https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white  
+[Mongodb]: https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white  
+[Redis]: https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white  
+[Rabbitmq]: https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white  
+[Selenium]: https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white  
+
+[Linkedin]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white  
+[linkedin-url]: https://www.linkedin.com/in/dimasyotama/
+
+[Medium]: https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white  
+[medium-url]: https://dimasyotama.medium.com/
+
+[Instagram]: https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white  
 [instagram-url]: https://www.instagram.com/dimasyotama/
